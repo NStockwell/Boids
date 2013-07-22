@@ -161,7 +161,7 @@ public class Bird : MonoBehaviour {
 			
 		//	Cohese(fakedNeighbours);
 			Seperate(fakedNeighbours);
-			//Align(fakedNeighbours);
+			Align(fakedNeighbours);
 			
 				
 			
